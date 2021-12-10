@@ -1,2 +1,3 @@
 # DIO-desafio-Git
-Repositório feito no desafio da DIO
+
+Repositório feito no desafio de projeto da DIO
